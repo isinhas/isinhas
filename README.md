@@ -9,5 +9,8 @@
  🔹CSS;
  
  🔹Java;
+ 
+ 
+ ![Isinhas GitHub stats](https://github-readme-stats.vercel.app/api?username=isinhas&show_icons=true&theme=radical)
 
 
